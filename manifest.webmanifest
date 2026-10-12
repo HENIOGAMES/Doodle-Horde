@@ -1,7 +1,7 @@
 {
-  "name": "Doodle Horde",
-  "short_name": "Doodle Horde",
-  "description": "Hold off a horde of pencil doodles in a doodled town.",
+  "name": "Doodle Town",
+  "short_name": "Doodle Town",
+  "description": "A doodled pencil town: hold off the horde, or battle bots and friends.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
